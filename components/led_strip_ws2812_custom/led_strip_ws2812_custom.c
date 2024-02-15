@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-#include "led_strip.h"
+#include "led_strip_ws2812_custom.h"
 
 #if CONFIG_EXAMPLE_ENABLE_CONSOLE_CONTROL
 #include "cmd_led_indicator.h"

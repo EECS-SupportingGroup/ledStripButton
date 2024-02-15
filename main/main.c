@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "led_strip.h"
+#include "led_strip_ws2812_custom.h"
 
 void app_main(void)
 {
