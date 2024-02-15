@@ -106,3 +106,4 @@ pytest_embedded_log/
 pytest_log/
 .pytest_cache/
 XUNIT_RESULT.xml
+sdkconfig
